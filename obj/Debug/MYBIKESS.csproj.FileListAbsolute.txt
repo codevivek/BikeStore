@@ -1,0 +1,4 @@
+c:\Users\jenny\source\repos\MYBIKESS\MYBIKESS\obj\Debug\MYBIKESS.csprojAssemblyReference.cache
+c:\Users\jenny\source\repos\MYBIKESS\MYBIKESS\obj\Debug\MYBIKESS.Client.Form1.resources
+c:\Users\jenny\source\repos\MYBIKESS\MYBIKESS\obj\Debug\MYBIKESS.csproj.GenerateResource.cache
+c:\Users\jenny\source\repos\MYBIKESS\MYBIKESS\obj\Debug\MYBIKESS.csproj.CoreCompileInputs.cache
